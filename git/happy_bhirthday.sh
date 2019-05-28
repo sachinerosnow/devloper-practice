@@ -2,3 +2,4 @@
 echo "happy birthday"
 echo "cool"
 echo "coool"
+echo "god"
